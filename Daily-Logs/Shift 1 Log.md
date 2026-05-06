@@ -1,6 +1,6 @@
 ![alt text](https://github.com/DJackson-BlueTeam/90-Day-Junior-Analyst-Sprint/blob/b73f6075e4928a6bd4ace0829a9a9458b6836287/Daily-Logs/Shift%20Review/Shift%20Recap.png)
 
-# Shift 1 Report: SIEM Zeroing & Telemtry Extraction
+# Shift 1 Report: SIEM Zeroing & Telemetry Extraction
 ### Date: May 4th. 2026
 ### Shift: 7:30 - 19:00
 
