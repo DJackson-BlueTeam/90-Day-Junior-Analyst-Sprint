@@ -13,8 +13,15 @@ The objective was to confirm the behavors formulated during Day 1 static triage.
 **Packing Confirmation**
   - I verified a gap between the Virutal Size (169,468) and Raw Data Size (29,600), confirming that the binary was packed to evade static setection.
 
+![alt text](https://github.com/DJackson-BlueTeam/90-Day-Junior-Analyst-Sprint/blob/ffdbf1492e63816bd0121f370b21c419d073930a/Malware-Analysis-Reports/1.%20Silly%20Putty/SillyPutty%20Img/8.1.png)
+
+![alt text](https://github.com/DJackson-BlueTeam/90-Day-Junior-Analyst-Sprint/blob/ffdbf1492e63816bd0121f370b21c419d073930a/Malware-Analysis-Reports/1.%20Silly%20Putty/SillyPutty%20Img/8.2.png)
+
 **Execution Lineage (Event 1)**
   - The malware utilized a Decoy Tactic by launching a legitimate "PuTTY Configuration" window.
+
+  ![alt text](https://github.com/DJackson-BlueTeam/90-Day-Junior-Analyst-Sprint/blob/ffdbf1492e63816bd0121f370b21c419d073930a/Malware-Analysis-Reports/1.%20Silly%20Putty/SillyPutty%20Img/9..png)
+  
   - In the background, a blue screen flashed initiating a powershell execution.
 
 **Persistence**
@@ -42,6 +49,8 @@ The objective was to confirm the behavors formulated during Day 1 static triage.
 **Telemtry & Environment Status**
 Splunk Status
 - The Unufied Hunt Query successfully correlated host process starts with network connections attempts.
+
+![alt text](https://github.com/DJackson-BlueTeam/90-Day-Junior-Analyst-Sprint/blob/ffdbf1492e63816bd0121f370b21c419d073930a/Malware-Analysis-Reports/1.%20Silly%20Putty/SillyPutty%20Img/10..png)
 
 **Snapshot Intergrity**
 - Reverted to baseline after capturing SillyPutty detonation state for forensic study. 
