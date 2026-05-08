@@ -12,9 +12,9 @@
 
 **1. What is the vendor of the Project Z firewall?**
 
-Looking through the logs in Ubuntu, I seen a Firewall name "FortiFirewall" and look up the potential "Company". 
+- Looking through the logs in Ubuntu, I seen a Firewall name "FortiFirewall" and look up the potential "Company". 
 
-![alt text]()
+![alt text](https://github.com/DJackson-BlueTeam/90-Day-Junior-Analyst-Sprint/blob/2cf4defd991f8d1f2005a836270dc9967f4f4718/BLTO-Lab-Investigations/Easy/Incident%20Response/PATIENT%20Z-ERO/PATIENT%20Z-ERO%20IMG/1..png)
 
 **2. What is the firmware version is running on the firewall?**
 
