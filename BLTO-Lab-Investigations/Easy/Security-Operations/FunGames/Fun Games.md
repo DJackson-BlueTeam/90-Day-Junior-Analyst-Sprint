@@ -4,7 +4,7 @@
 
 ## Scenario
 
-FunGames is an e-commerce platform for video games owned by FunTech Inc. and has become the target of a criminal who managed to obtain access credentials and exfiltrate some sensitive data. FunTech analysts provide the fugames.pcap file to analyze and retrieve all the pieces of information about the attack.
+#### FunGames is an e-commerce platform for video games owned by FunTech Inc. and has become the target of a criminal who managed to obtain access credentials and exfiltrate some sensitive data. FunTech analysts provide the fugames.pcap file to analyze and retrieve all the pieces of information about the attack.
 
 ### Investigation Question
 
@@ -42,6 +42,7 @@ Q4) It seems the attacker used a famous tool to perform the attack.
 ![alt text](https://github.com/DJackson-BlueTeam/90-Day-Junior-Analyst-Sprint/blob/4cfd6c2542257be510b7f55ce11a68b445bbbc20/BLTO-Lab-Investigations/Easy/Security-Operations/FunGames/FunGamesImg/4..png)
 
 - SQLmap is a tool used for penetration purposes that automates process of detecting and exploiting SQL injections
+
 Answer: SQLMAP
 
 **5. In one of the packets, it is possible to view the victim's username and password.**
@@ -81,7 +82,7 @@ Q7) What is the sha256 hash of the file above?
 
 ![alt text](https://github.com/DJackson-BlueTeam/90-Day-Junior-Analyst-Sprint/blob/4cfd6c2542257be510b7f55ce11a68b445bbbc20/BLTO-Lab-Investigations/Easy/Security-Operations/FunGames/FunGamesImg/6.3.png)
 
-Q8) With which CVE is this type of vulnerability identified?
+**8. With which CVE is this type of vulnerability identified?**
 - I had uploaded the hashvalue to VirusTotal and observing the data. 
 - There was a CVE documented on the hashvalue through the community.
 
