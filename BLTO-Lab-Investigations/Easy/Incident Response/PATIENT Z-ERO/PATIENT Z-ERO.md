@@ -8,7 +8,7 @@
 
 #### Deep beneath the city, Zeta-9 Corporation’s secret bioweapon project went catastrophically wrong after an explosion released a mind-altering virus into the wild. The company covered it up as a “minor fire,” but leaked internal files from a mysterious hacktivist group told another story — one of containment failure and stolen research. Now, all contact with the facility is lost. As part of Zeta-9’s elite CRISIS unit, you’re deployed on-site to investigate the breach. The complex is silent — lights flicker, systems are offline, and something feels off. Your first task: access your C.R.I.S.I.S workstation. A briefing document on your desktop may provide more information... For this challenge, a GrayLog server is available at: URL: http://localhost:9000 Credentials: admin / Password A config file was obtained and is available at: /home/ubuntu/Documents/backup/backup.conf WARNING: graylog can take a few minutes to load!
 
-#### Investigation Questions
+#### Investigation
 
 **1. What is the vendor of the Project Z firewall?**
 
